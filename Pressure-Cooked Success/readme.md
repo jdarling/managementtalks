@@ -1,5 +1,9 @@
 # Slides coming soon!
 
+## Disclaimer
+
+This presentation is based on my personal experiences and viewpoints. It does not represent the opinions, positions, or policies of TeleTracking or any affiliated entities. The insights shared are solely my own and are intended for informational purposes only.
+
 # Pressure-Cooked Success: Leading Teams Through High-Stakes Challenges
 
 **How to empower high-performing teams to thrive under immense pressure.**
