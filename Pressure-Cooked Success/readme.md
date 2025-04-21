@@ -8,7 +8,7 @@ This presentation is based on my personal experiences, thoughts, and viewpoints.
 
 **How to empower high-performing teams to thrive under immense pressure.**
 
-In the height of the Zombie Apocalypse, Jeremy Darling faced one of the most high-pressure challenges of his career: leading a team to create and manage the data aggregation and delivery platform. This mission-critical system collected real-time data from healthcare providers worldwide, providing key decision-makers with the information needed to allocate resources and respond effectively to a rapidly evolving crisis.
+In the height of the Zombie Apocalypse, Jeremy Darling faces one of the most high-pressure challenges of his career: leading a team to create and manage a data platform to decide the fate of the future. This mission-critical system will have to collect real-time data from the world, providing key decision-makers with the information needed to allocate resources and respond effectively to a rapidly evolving crisis.
 
 In this talk, Jeremy shares a unique view of theoritcal experiences managing just such a high-performing team in high-stakes environments. He reveals the strategies and leadership principles that allowed this type of team to stay resilient, collaborative, and focused amidst the pressure. From fostering a culture of trust and adaptability to balancing technical innovation with human connection, this talk will inspire and equip managers to guide their teams through the most challenging projects.
 
